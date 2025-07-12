@@ -1,0 +1,46 @@
+Crop Recommender System Using Machine Learning Approach
+
+IEE International Conference on Computing Methodologies and Communication,Issue Date:06.May.2021
+
+
+Crop Yield Prediction, Machine Learning, Random
+Forest, Crop Recommender System, Artificial Neural Networks
+(ANN), Support Vector Machine (SVM), K-Nearest Neighbours
+(KNN), Multivariate Linear Regression (MLR), Fertilizer
+
+
+
+
+Crop_Recommender_System
+
+crop_recommender_system
+
+
+crop_prediction
+
+State_Name
+names
+Area
+Soil_Type
+Yield_Prediction
+Production_Prediction
+
+
+crop_recommendation
+
+State_Name
+names
+Area
+Soil_Type
+
+
+
+crop_prediction,detection_ratio,,detection_accuracy
+
+varchar(300) NOT NULL
+
+
+Sandy
+Red
+Black
+Laomy

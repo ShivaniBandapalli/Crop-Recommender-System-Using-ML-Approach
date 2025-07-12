@@ -1,0 +1,580 @@
+sname,District_Name,Crop_Year,cseason,Crop,Area,production,ratio_of_production,label
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Arecanut,1254.0,2000.0,3.454231433506045,2
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Other Kharif pulses,456755.0,57845453.0,99905.79101899828,2
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Rice,102.0,321.0,0.5544041450777202,1
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Banana,176.0,641.0,1.1070811744386875,2
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Cashewnut,720.0,165.0,0.2849740932642487,1
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Coconut ,18168.0,6510.0,11.243523316062177,2
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Dry ginger,36.0,100.0,0.17271157167530224,1
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Sugarcane,1.0,2.0,0.0034542314335060447,1
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Sweet potato,5.0,15.0,0.025906735751295335,1
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Tapioca,40.0,169.0,0.2918825561312608,1
+Andaman and Nicobar Islands,NICOBARS,2001,Kharif     ,Arecanut,1254.0,2061.0,3.5595854922279795,2
+Andaman and Nicobar Islands,NICOBARS,2001,Kharif     ,Other Kharif pulses,2.0,1.0,0.0017271157167530224,1
+Andaman and Nicobar Islands,NICOBARS,2001,Kharif     ,Rice,83.0,300.0,0.5181347150259067,1
+Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Cashewnut,719.0,192.0,0.3316062176165803,1
+Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Coconut ,18190.0,64430000.0,111278.06563039724,2
+Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Dry ginger,46.0,100.0,0.17271157167530224,1
+Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Sugarcane,1.0,1.0,0.0017271157167530224,1
+Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Sweet potato,11.0,33.0,0.05699481865284974,1
+Andaman and Nicobar Islands,NICOBARS,2002,Kharif     ,Rice,189.2,510.84,0.8822797927461139,1
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Arecanut,1258.0,2083.0,3.597582037996546,2
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Banana,213.0,1278.0,2.2072538860103625,2
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Black pepper,63.0,13.5,0.023316062176165803,1
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Cashewnut,719.0,208.0,0.3592400690846287,1
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Coconut ,18240.0,67490000.0,116563.03972366148,2
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Dry chillies,413.0,28.8,0.04974093264248705,1
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Dry ginger,47.3,133.0,0.229706390328152,1
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Sugarcane,5.0,40.0,0.0690846286701209,1
+Andaman and Nicobar Islands,NICOBARS,2003,Kharif     ,Rice,52.0,90.17,0.15573402417962004,1
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Arecanut,1261.0,1525.0,2.633851468048359,2
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Banana,266.0,1763.0,3.0449050086355784,2
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Black pepper,75.5,53343.0,92.12953367875647,2
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Cashewnut,717.0,208.5,0.3601036269430052,1
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Coconut ,18284.74,68580000.0,118445.59585492229,2
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Dry chillies,60.0,102.0,0.17616580310880828,1
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Dry ginger,102.0,35322.0,61.005181347150256,2
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,other oilseeds,4.2,532.0,0.918825561312608,1
+Andaman and Nicobar Islands,NICOBARS,2004,Kharif     ,Rice,52.94,72.57,0.12533678756476682,1
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Arecanut,1264.7,5432514231.0,9382580.70984456,2
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Banana,66.42,404.12,0.6979620034542314,1
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Black pepper,85.0,15.86,0.027392055267702935,1
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Cashewnut,683.5,325453.0,562.0949913644214,2
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Coconut ,18394.7,52380000.0,90466.32124352331,2
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Dry chillies,60.0,145.2,0.25077720207253884,1
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Dry ginger,118.0,366.0,0.6321243523316062,1
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,other oilseeds,1.0,0.11,0.00018998272884283247,1
+Andaman and Nicobar Islands,NICOBARS,2005,Kharif     ,Rice,2.09,12.06,0.02082901554404145,1
+Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Arecanut,795.67,25345324532.0,43774308.34542314,2
+Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Banana,22.0,582.0,1.005181347150259,2
+Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Black pepper,41.0,53453.0,92.31951640759931,2
+Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Cashewnut,450.0,55.8,0.09637305699481864,1
+Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Coconut ,13876.57,52030000.0,89861.83074265976,2
+Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Dry chillies,17.0,41.75,0.07210708117443869,1
+Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Turmeric,10.0,70.0,0.12089810017271158,1
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Arecanut,896.0,342523423.0,591577.5872193438,2
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Banana,198.0,976.0,1.68566493955095,2
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Black pepper,22.16,0.68,0.0011744386873920553,1
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Cashewnut,450.0,85.13,0.1470293609671848,1
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Coconut ,14358.0,59370000.0,102538.86010362694,2
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Dry chillies,3.0,9.0,0.015544041450777202,1
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Dry ginger,6.0,21.0,0.03626943005181347,1
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Sugarcane,0.2,0.5,0.0008635578583765112,1
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Sweet potato,18.0,86.0,0.14853195164075994,1
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Tapioca,52.03,450.0,0.7772020725388601,1
+Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Turmeric,2.5,1.03,0.0017789291882556132,1
+Andaman and Nicobar Islands,NICOBARS,2010,Autumn     ,Rice,3.5,10.0,0.017271157167530225,1
+Andaman and Nicobar Islands,NICOBARS,2010,Autumn     ,Sugarcane,13.4,41.75,0.07210708117443869,1
+Andaman and Nicobar Islands,NICOBARS,2010,Rabi       ,Arecanut,944.0,6543635.0,11301.614853195164,2
+Andaman and Nicobar Islands,NICOBARS,2010,Rabi       ,Black pepper,23.0,8.5,0.01468048359240069,1
+Andaman and Nicobar Islands,NICOBARS,2010,Rabi       ,Cashewnut,1000.5,437000000000.0,754749568.2210708,2
+Andaman and Nicobar Islands,NICOBARS,2010,Rabi       ,Dry chillies,12.0,25.0,0.04317789291882556,1
+Andaman and Nicobar Islands,NICOBARS,2010,Rabi       ,Dry ginger,7.0,9.64,0.016649395509499138,1
+Andaman and Nicobar Islands,NICOBARS,2010,Rabi       ,Maize,3.84,18.22,0.03146804835924007,1
+Andaman and Nicobar Islands,NICOBARS,2010,Rabi       ,Moong(Green Gram),1.5,1.1,0.0018998272884283248,1
+Andaman and Nicobar Islands,NICOBARS,2010,Rabi       ,Sweet potato,22.0,208.0,0.3592400690846287,1
+Andaman and Nicobar Islands,NICOBARS,2010,Rabi       ,Turmeric,32432.0,435634633.0,752391.4214162349,2
+Andaman and Nicobar Islands,NICOBARS,2010,Rabi       ,Urad,1.5,1.16,0.002003454231433506,1
+Andaman and Nicobar Islands,NICOBARS,2010,Whole Year ,Banana,593.0,3425.0,5.915371329879102,2
+Andaman and Nicobar Islands,NICOBARS,2010,Whole Year ,Coconut ,14560.0,71300000.0,123143.35060449051,2
+Andaman and Nicobar Islands,NICOBARS,2010,Whole Year ,Tapioca,69.0,575.0,0.9930915371329879,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Kharif     ,Arecanut,3100.0,5200.0,8.981001727115716,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Kharif     ,Other Kharif pulses,668.0,448.0,0.7737478411053541,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Kharif     ,Rice,10779.0,34634264326.0,59817382.255613126,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Whole Year ,Banana,1531.0,12073.0,20.85146804835924,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Whole Year ,Cashewnut,80.0,54.0,0.09326424870466321,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Whole Year ,Coconut ,6992.0,23900000.0,41278.065630397236,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Whole Year ,Dry ginger,352.0,1120.0,1.9343696027633852,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Whole Year ,other oilseeds,133.0,55.0,0.09499136442141623,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Whole Year ,Sugarcane,141.0,3736.0,6.452504317789292,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Whole Year ,Sweet potato,78.0,843.0,1.455958549222798,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Whole Year ,Tapioca,160.0,2108.0,3.6407599309153715,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2001,Kharif     ,Arecanut,3100.0,634634634.0,1096087.4507772021,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2001,Kharif     ,Other Kharif pulses,418.0,199.0,0.3436960276338515,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2001,Kharif     ,Rice,9718.0,4573473434.0,7898917.848013817,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2001,Whole Year ,Cashewnut,81.0,33.0,0.05699481865284974,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2001,Whole Year ,Coconut ,7015.0,25250000.0,43609.671848013815,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2001,Whole Year ,Dry ginger,344.0,1124.0,1.9412780656303972,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2001,Whole Year ,Sugarcane,81.0,2379.0,4.108808290155441,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2001,Whole Year ,Sweet potato,100.0,5.0,0.008635578583765112,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Kharif     ,Rice,6854.3,7457647657.0,12880220.478411054,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Arecanut,1160.0,3011.7,5.201554404145077,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Banana,957.57,8582.0,14.822107081174439,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Black pepper,175.0,191.14,0.3301208981001727,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Cashewnut,40.5,44.0,0.07599309153713299,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Coconut ,3575.0,15400000.0,26597.582037996544,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Dry chillies,235.72,824.3,1.4236614853195164,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Dry ginger,98.66,929.0,1.604490500863558,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,other oilseeds,35.62,21.4,0.036960276338514675,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Sugarcane,71.3,1500.0,2.5906735751295336,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Sweet potato,30.0,240.0,0.41450777202072536,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Tapioca,255.0,1420.0,2.452504317789292,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2006,Whole Year ,Turmeric,68.0,408.0,0.7046632124352331,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Autumn     ,Rice,6791.0,20118.0,34.74611398963731,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Autumn     ,Sugarcane,73.33,889.2,1.5357512953367876,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Arecanut,1296.0,6546363434.0,11306327.174438687,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Arhar/Tur,294.5,90.8,0.15682210708117444,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Black pepper,168.0,24333.0,42.02590673575129,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Cashewnut,84.5,433.0,0.7478411053540587,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Dry chillies,254.0,402.0,0.694300518134715,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Dry ginger,110.0,1011.84,1.7475647668393783,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Groundnut,4.75,253.0,0.4369602763385147,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Maize,86.7,96.4,0.16649395509499137,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Moong(Green Gram),1168.6,547457564.0,945522.5630397237,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Sunflower,2.9,543.0,0.9378238341968912,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Sweet potato,109.0,480.0,0.8290155440414507,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Turmeric,68.0,376.5,0.6502590673575129,1
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Rabi       ,Urad,1059.5,456536453.0,788491.2832469776,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Whole Year ,Banana,657.0,7968.0,13.761658031088082,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Whole Year ,Coconut ,3668.0,12700000.0,21934.369602763385,2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2010,Whole Year ,Tapioca,186.5,1355.0,2.3402417962003454,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Kharif     ,Rice,10695.8,31600.82,54.578272884283244,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Whole Year ,Arecanut,3105.0,5476575465.0,9458679.559585493,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Whole Year ,Banana,1524.0,10882.0,18.79447322970639,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Whole Year ,Black pepper,487.0,102.5,0.1770293609671848,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Whole Year ,Cashewnut,81.0,24.0,0.04145077720207254,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Whole Year ,Coconut ,7060.0,26830000.0,46338.51468048359,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Whole Year ,Dry chillies,239.0,20.9,0.036096718480138165,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Whole Year ,Dry ginger,352.0,1145.0,1.9775474956822108,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Whole Year ,other oilseeds,85.1,40.31,0.06962003454231434,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Whole Year ,Sugarcane,455.0,13760.0,23.76511226252159,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2003,Kharif     ,Rice,10509.37,30760.7,53.1272884283247,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2003,Whole Year ,Arecanut,3118.0,5182.0,8.949913644214162,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2003,Whole Year ,Banana,1530.0,11558.0,19.962003454231432,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2003,Whole Year ,Black pepper,497.0,104.37,0.18025906735751296,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2003,Whole Year ,Cashewnut,116.5,26.14,0.04514680483592401,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2003,Whole Year ,Coconut ,7110.0,26660000.0,46044.90500863558,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2003,Whole Year ,Dry chillies,340.0,578.0,0.998272884283247,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2003,Whole Year ,Dry ginger,406.0,1299.2,2.243868739205527,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2003,Whole Year ,other oilseeds,82.09,35.51,0.061329879101899826,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2003,Whole Year ,Sugarcane,268.0,2879.52,4.973264248704663,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2004,Kharif     ,Rice,10681.98,29119.66,50.29302245250432,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2004,Whole Year ,Arecanut,3160.67,3975.2,6.865630397236615,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2004,Whole Year ,Banana,1912.1,17374.4,30.007599309153715,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2004,Whole Year ,Black pepper,570.0,104.36,0.18024179620034542,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2004,Whole Year ,Cashewnut,116.5,25.1,0.04335060449050086,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2004,Whole Year ,Coconut ,7156.7,34750000.0,60017.27115716753,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2004,Whole Year ,Dry chillies,340.0,822.8,1.4210708117443869,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2004,Whole Year ,Dry ginger,410.0,1462.0,2.5250431778929188,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2004,Whole Year ,other oilseeds,89.3,46.5,0.08031088082901554,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2004,Whole Year ,Sugarcane,145.26,1560.0,2.694300518134715,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Kharif     ,Rice,8683.38,25870.98,44.68217616580311,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Arecanut,3250.78,3058.46,5.282314335060449,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Banana,1656.8,10251.13,17.70488773747841,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Black pepper,656.45,35.95,0.06208981001727116,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Cashewnut,118.5,30.22,0.05219343696027633,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Coconut ,7050.45,26430000.0,45647.668393782384,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Dry chillies,370.7,877.6,1.5157167530224525,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Dry ginger,200.0,1800.0,3.1088082901554404,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,other oilseeds,53.55,34.2,0.059067357512953375,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Sugarcane,128.02,2448.2,4.228324697754749,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Sweet potato,131.9,700.35,1.2095854922279794,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Tapioca,254.5,1480.0,2.5561312607944733,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2005,Whole Year ,Turmeric,81.7,572.0,0.9879101899827288,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Kharif     ,Rice,921.87,2539.64,4.386252158894646,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Arecanut,2000.0,2350.0,4.058721934369602,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Banana,483.0,4150.0,7.167530224525043,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Black pepper,413.1,20.18,0.03485319516407599,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Cashewnut,79.5,26.0,0.044905008635578586,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Coconut ,3483.09,14190000.0,24507.772020725388,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Dry chillies,124.6,34.7,0.059930915371329885,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Dry ginger,100.9,900.0,1.5544041450777202,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,other oilseeds,24.0,14.98,0.02587219343696028,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Sugarcane,53.5,999.5,1.726252158894646,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Sweet potato,30.4,220.0,0.3799654576856649,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Tapioca,40.0,160.0,0.2763385146804836,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2006,Whole Year ,Turmeric,10.0,60.0,0.10362694300518134,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Autumn     ,Rice,1595.5,3788.0,6.542314335060449,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Autumn     ,Sugarcane,67.5,402.0,0.694300518134715,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Arecanut,1912.0,1900.0,3.2815198618307426,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Arhar/Tur,20.5,13.2,0.022797927461139896,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Black pepper,409.0,98.0,0.1692573402417962,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Cashewnut,15.0,10.5,0.018134715025906734,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Dry chillies,128.0,148.0,0.2556131260794473,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Dry ginger,94.0,828.52,1.430949913644214,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Groundnut,15.5,7.6,0.01312607944732297,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Maize,73.0,253.0,0.4369602763385147,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Moong(Green Gram),29.9,17.85,0.030829015544041452,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Sunflower,1.0,0.5,0.0008635578583765112,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Sweet potato,32.0,235.0,0.4058721934369603,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Turmeric,10.0,105.0,0.18134715025906736,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Rabi       ,Urad,34.0,15.05,0.02599309153713299,1
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Whole Year ,Banana,360.0,5517.0,9.528497409326425,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Whole Year ,Coconut ,3540.0,11000000.0,18998.272884283248,2
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2010,Whole Year ,Tapioca,22.5,220.0,0.3799654576856649,1
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Arhar/Tur,21400.0,2600.0,4.490500863557858,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Bajra,1400.0,500.0,0.8635578583765112,1
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Castor seed,1000.0,100.0,0.17271157167530224,1
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Cotton(lint),7300.0,9400.0,16.23488773747841,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Dry chillies,3700.0,7100.0,12.26252158894646,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Groundnut,650800.0,228400.0,394.4732297063903,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Horse-gram,3300.0,1000.0,1.7271157167530224,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Jowar,10100.0,10200.0,17.616580310880828,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Korra,2200.0,700.0,1.2089810017271156,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Maize,2800.0,4900.0,8.46286701208981,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Moong(Green Gram),1300.0,500.0,0.8635578583765112,1
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Other Kharif pulses,800.0,100.0,0.17271157167530224,1
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Ragi,6700.0,11800.0,20.379965457685664,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Rice,35600.0,75400.0,130.2245250431779,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Sugarcane,700.0,72900.0,125.90673575129534,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Sunflower,35900.0,11100.0,19.17098445595855,2
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Tobacco,200.0,200.0,0.3454231433506045,1
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Dry chillies,100.0,100.0,0.17271157167530224,1
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Gram,28000.0,14800.0,25.561312607944732,2
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Groundnut,20200.0,21700.0,37.47841105354059,2
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Horse-gram,600.0,200.0,0.3454231433506045,1
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Jowar,18800.0,9400.0,16.23488773747841,2
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Korra,100.0,100.0,0.17271157167530224,1
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Maize,600.0,2400.0,4.1450777202072535,2
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Ragi,600.0,1000.0,1.7271157167530224,2
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Rice,18000.0,37300.0,64.42141623488774,2
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Sunflower,30100.0,11100.0,19.17098445595855,2
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Wheat,300.0,343543.0,593.3385146804836,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Arhar/Tur,27400.0,9100.0,15.716753022452504,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Bajra,2600.0,1900.0,3.2815198618307426,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Castor seed,3200.0,1000.0,1.7271157167530224,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Cotton(lint),14000.0,12900.0,22.27979274611399,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Dry chillies,4000.0,10000.0,17.271157167530223,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Groundnut,755200.0,867800.0,1498.7910189982729,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Horse-gram,2300.0,900.0,1.5544041450777202,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Jowar,3700.0,5800.0,10.01727115716753,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Korra,4600.0,3400.0,5.872193436960276,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Maize,3300.0,6700.0,11.57167530224525,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Moong(Green Gram),2100.0,1300.0,2.245250431778929,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Other Kharif pulses,2000.0,34343.0,59.314335060449054,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Ragi,7000.0,14900.0,25.734024179620036,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Rice,38300.0,96800.0,167.18480138169258,2
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Sunflower,21300.0,12200.0,21.070811744386873,2
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Dry chillies,200.0,200.0,0.3454231433506045,1
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Gram,26200.0,25900.0,44.73229706390328,2
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Groundnut,25900.0,35800.0,61.8307426597582,2
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Horse-gram,700.0,3434545.0,5931.8566493955095,2
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Jowar,14800.0,22100.0,38.1692573402418,2
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Maize,300.0,1600.0,2.763385146804836,2
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Ragi,700.0,1200.0,2.0725388601036268,2
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Rice,26600.0,63900.0,110.36269430051813,2
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Sunflower,13500.0,3300.0,5.699481865284974,2
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Wheat,400.0,200.0,0.3454231433506045,1
+Andhra Pradesh,ANANTAPUR,1998,Whole Year ,Sugarcane,700.0,65900.0,113.81692573402418,2
+Andhra Pradesh,ANANTAPUR,1998,Whole Year ,Tobacco,100.0,100.0,0.17271157167530224,1
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Bajra,1635.0,889.0,1.535405872193437,2
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Castor seed,1880.0,4343433.0,7501.611398963731,2
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Cotton(lint),9453.0,10510.0,18.151986183074268,2
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Groundnut,694865.0,249457.0,430.8411053540587,2
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Horse-gram,1762.0,495.0,0.8549222797927462,1
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Jowar,11131.0,14582.0,25.184801381692573,2
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Maize,3358.0,9540.0,16.476683937823836,2
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Masoor,23117.0,3861.0,6.668393782383419,2
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Moong(Green Gram),1546.0,1098.0,1.8963730569948187,2
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Ragi,6215.0,11467.0,19.80483592400691,2
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Rice,37991.0,105082.0,181.4887737478411,2
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Sesamum,8.0,343.0,0.5924006908462867,1
+Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Urad,4.0,43.0,0.07426597582037997,1
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Bajra,99.0,54.0,0.09326424870466321,1
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Gram,26835.0,9365.0,16.174438687392055,2
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Groundnut,21785.0,25358.0,43.796200345423145,2
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Horse-gram,1071.0,327.0,0.5647668393782384,1
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Jowar,21487.0,30576.0,52.80829015544042,2
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Linseed,12.0,1.0,0.0017271157167530224,1
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Maize,455.0,2203.0,3.8048359240069085,2
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Masoor,98.0,10.0,0.017271157167530225,1
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Moong(Green Gram),1.0,1.0,0.0017271157167530224,1
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Ragi,734.0,1180.0,2.0379965457685665,2
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Rice,20258.0,45669.0,78.87564766839378,2
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Safflower,881.0,434343.0,750.160621761658,2
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Sesamum,10.0,343.0,0.5924006908462867,1
+Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Wheat,439.0,294.0,0.5077720207253886,1
+Andhra Pradesh,ANANTAPUR,1999,Whole Year ,Dry chillies,5199.0,5759.0,9.946459412780657,2
+Andhra Pradesh,ANANTAPUR,1999,Whole Year ,Onion,1770.0,32364.0,55.89637305699482,2
+Andhra Pradesh,ANANTAPUR,1999,Whole Year ,Sugarcane,884.0,83126.0,143.56822107081175,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Arhar/Tur,30693.0,7888.0,13.623488773747841,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Bajra,2477.0,1449.0,2.5025906735751295,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Castor seed,9315.0,2831.0,4.889464594127807,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Cotton(lint),12025.0,16128.0,27.854922279792746,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Dry chillies,3755.0,10146.0,17.523316062176164,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Gram,21.0,14.0,0.024179620034542316,1
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Groundnut,791559.0,884963.0,1528.433506044905,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Horse-gram,601.0,215.0,0.37132987910189985,1
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Jowar,5071.0,343432322.0,593147.3609671848,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Korra,1626.0,1143.0,1.9740932642487046,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Maize,3475.0,9049.0,15.6286701208981,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Moong(Green Gram),1744.0,774.0,1.3367875647668395,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Onion,1103.0,15470.0,26.71848013816926,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Other Kharif pulses,3167.0,559.0,0.9654576856649395,1
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,other misc. pulses,1292.0,214.0,0.3696027633851468,1
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Ragi,6613.0,16923.0,29.2279792746114,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Rice,39905.0,117680.0,203.24697754749567,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Samai,21.0,4343.0,7.500863557858376,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Sesamum,5.0,34.0,0.05872193436960276,1
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Small millets,1647.0,1148.0,1.9827288428324699,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Sunflower,30606.0,24590.0,42.46977547495682,2
+Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Urad,135.0,8.0,0.013816925734024179,1
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Arhar/Tur,35.0,9.0,0.015544041450777202,1
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Bajra,317.0,185.0,0.31951640759930916,1
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Dry chillies,71.0,81.0,0.13989637305699482,1
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Gram,33858.0,22685.0,39.17962003454232,2
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Groundnut,23048.0,23832.0,41.16062176165803,2
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Horse-gram,377.0,80.0,0.1381692573402418,1
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Jowar,15242.0,16980.0,29.326424870466322,2
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Korra,96.0,67.0,0.1157167530224525,1
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Linseed,8.0,2.0,0.0034542314335060447,1
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Maize,399.0,2148.0,3.709844559585492,2
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Onion,482.0,11514.0,19.8860103626943,2
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Ragi,909.0,1312.0,2.2659758203799654,2
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Rice,22099.0,57236.0,98.853195164076,2
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Safflower,703.0,129.0,0.22279792746113988,1
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Small millets,96.0,67.0,0.1157167530224525,1
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Urad,363.0,292.0,0.5043177892918825,1
+Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Wheat,520.0,297.0,0.5129533678756477,1
+Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Arecanut,252.0,696.0,1.2020725388601037,2
+Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Banana,769.0,11693.0,20.19516407599309,2
+Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Coconut ,908.0,3896970.0,6730.518134715026,2
+Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Coriander,8953.0,2266.0,3.913644214162349,2
+Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Potato,4.0,34.0,0.05872193436960276,1
+Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Sugarcane,284.0,25395.0,43.86010362694301,2
+Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Sweet potato,28.0,379.0,0.6545768566493955,1
+Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Tobacco,89.0,114.0,0.19689119170984457,1
+Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Turmeric,39.0,272.0,0.4697754749568221,1
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Arhar/Tur,27942.0,7628.0,13.174438687392055,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Bajra,1595.0,526.0,0.9084628670120898,1
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Castor seed,3191.0,34343433.0,59315.08290155441,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Cotton(lint),8552.0,9055.0,15.639032815198618,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Dry chillies,3765.0,7127.0,12.309153713298791,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Gram,16.0,17.0,0.02936096718480138,1
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Groundnut,758700.0,333828.0,576.5595854922279,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Horse-gram,649.0,60.0,0.10362694300518134,1
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Jowar,3900.0,6720.0,11.606217616580311,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Korra,1434.0,627.0,1.0829015544041452,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Maize,2667.0,7129.0,12.312607944732298,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Moong(Green Gram),1511.0,3434343.0,5931.5077720207255,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Onion,1165.0,19232.0,33.21588946459413,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Other Kharif pulses,2496.0,324.0,0.5595854922279793,1
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Ragi,5124.0,12405.0,21.424870466321245,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Rice,32878.0,95609.0,165.1278065630397,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Small millets,1434.0,627.0,1.0829015544041452,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Sunflower,51610.0,33580.0,57.99654576856649,2
+Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Urad,487.0,176.0,0.30397236614853196,1
+Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Arhar/Tur,5.0,34.0,0.05872193436960276,1
+Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Bajra,27.0,45545.0,78.6614853195164,2
+Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Dry chillies,108.0,168.0,0.29015544041450775,1
+Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Gram,47894.0,50145.0,86.60621761658031,2
+Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Groundnut,18773.0,29192.0,50.41796200345423,2
+Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Horse-gram,417.0,226.0,0.3903281519861831,1
+Bihar,NAWADA,2009,Rabi       ,Sunflower,2.0,3.0,0.0051813471502590676,1
+Bihar,NAWADA,2009,Rabi       ,Wheat,54636.0,100204.0,173.06390328151986,2
+Bihar,NAWADA,2009,Summer     ,Maize,1016.0,3131.0,5.407599309153714,2
+Bihar,NAWADA,2009,Summer     ,Moong(Green Gram),1486.0,688.0,1.1882556131260795,2
+Bihar,NAWADA,2009,Whole Year ,Sugarcane,92.0,4488.0,7.751295336787565,2
+Bihar,NAWADA,2009,Winter     ,Rice,51211.0,61319.0,105.90500863557858,2
+Bihar,NAWADA,2010,Autumn     ,Maize,1424.0,1587.0,2.7409326424870466,2
+Bihar,NAWADA,2010,Kharif     ,Arhar/Tur,1319.0,3434343.0,5931.5077720207255,2
+Bihar,NAWADA,2010,Kharif     ,Groundnut,80.0,82.0,0.14162348877374784,1
+Bihar,NAWADA,2010,Kharif     ,Horse-gram,226.0,213.0,0.36787564766839376,1
+Bihar,NAWADA,2010,Kharif     ,Jowar,462.0,43435.0,75.01727115716753,2
+Bihar,NAWADA,2010,Kharif     ,Moong(Green Gram),68.0,4343.0,7.500863557858376,2
+Bihar,NAWADA,2010,Kharif     ,Other Kharif pulses,268.0,183.0,0.3160621761658031,1
+Bihar,NAWADA,2010,Kharif     ,Ragi,227.0,223.0,0.385146804835924,1
+Bihar,NAWADA,2010,Kharif     ,Sesamum,16.0,13.0,0.022452504317789293,1
+Bihar,NAWADA,2010,Kharif     ,Urad,42.0,37.0,0.06390328151986183,1
+Bihar,NAWADA,2010,Rabi       ,Barley,8.0,7.0,0.012089810017271158,1
+Bihar,NAWADA,2010,Rabi       ,Gram,2786.0,2945.0,5.086355785837651,2
+Bihar,NAWADA,2010,Rabi       ,Khesari,1130.0,955.0,1.6493955094991364,2
+Bihar,NAWADA,2010,Rabi       ,Linseed,603.0,493.0,0.8514680483592401,1
+Bihar,NAWADA,2010,Rabi       ,Maize,40.0,155.0,0.26770293609671847,1
+Bihar,NAWADA,2010,Rabi       ,Masoor,4300.0,34343432.0,59315.08117443869,2
+Bihar,NAWADA,2010,Rabi       ,Peas & beans (Pulses),301.0,312.0,0.538860103626943,1
+Bihar,NAWADA,2010,Rabi       ,Rapeseed &Mustard,1364.0,1566.0,2.704663212435233,2
+Bihar,NAWADA,2010,Rabi       ,Sunflower,27.0,39.0,0.06735751295336788,1
+Bihar,NAWADA,2010,Rabi       ,Wheat,59357.0,120220.0,207.63385146804836,2
+Bihar,NAWADA,2010,Summer     ,Maize,952.0,3935.0,6.796200345423143,2
+Bihar,NAWADA,2010,Summer     ,Moong(Green Gram),1605.0,545343.0,941.8704663212435,2
+Bihar,NAWADA,2010,Whole Year ,Sugarcane,673.0,33772.0,58.32815198618307,2
+Bihar,NAWADA,2010,Winter     ,Rice,44412.0,45968.0,79.39205526770293,2
+Bihar,NAWADA,2011,Autumn     ,Maize,1817.0,3227.0,5.573402417962003,2
+Bihar,NAWADA,2011,Kharif     ,Arhar/Tur,1110.0,1319.0,2.2780656303972364,2
+Bihar,NAWADA,2011,Kharif     ,Groundnut,500.0,511.0,0.8825561312607945,1
+Bihar,NAWADA,2011,Kharif     ,Horse-gram,432.0,411.0,0.7098445595854922,1
+Chhattisgarh,SURGUJA,2008,Rabi       ,Masoor,2168.0,705.0,1.217616580310881,2
+Chhattisgarh,SURGUJA,2008,Rabi       ,Moong(Green Gram),25.0,5.0,0.008635578583765112,1
+Chhattisgarh,SURGUJA,2008,Rabi       ,Other  Rabi pulses,3.0,1.0,0.0017271157167530224,1
+Chhattisgarh,SURGUJA,2008,Rabi       ,Peas & beans (Pulses),3091.0,1340.0,2.31433506044905,2
+Chhattisgarh,SURGUJA,2008,Rabi       ,Potato,5756.0,24617.0,42.516407599309154,2
+Chhattisgarh,SURGUJA,2008,Rabi       ,Rapeseed &Mustard,19965.0,7997.0,13.81174438687392,2
+Chhattisgarh,SURGUJA,2008,Rabi       ,Wheat,20115.0,24154.0,41.7167530224525,2
+Chhattisgarh,SURGUJA,2008,Whole Year ,Banana,11.0,257.0,0.4438687392055268,1
+Chhattisgarh,SURGUJA,2008,Whole Year ,Coriander,545.0,118.0,0.20379965457685664,1
+Chhattisgarh,SURGUJA,2008,Whole Year ,Dry chillies,857.0,343432.0,593.1468048359241,2
+Chhattisgarh,SURGUJA,2008,Whole Year ,Dry ginger,831.0,1041.0,1.7979274611398963,2
+Chhattisgarh,SURGUJA,2008,Whole Year ,Garlic,561.0,1259.0,2.174438687392055,2
+Chhattisgarh,SURGUJA,2008,Whole Year ,Onion,1337.0,43534532.0,75189.17443868739,2
+Chhattisgarh,SURGUJA,2008,Whole Year ,Sannhamp,428.0,139.0,0.24006908462867013,1
+Chhattisgarh,SURGUJA,2008,Whole Year ,Sugarcane,1956.0,5656.0,9.768566493955095,2
+Chhattisgarh,SURGUJA,2008,Whole Year ,Sweet potato,1061.0,4793.0,8.278065630397236,2
+Chhattisgarh,SURGUJA,2008,Whole Year ,Tobacco,23.0,12.0,0.02072538860103627,1
+Chhattisgarh,SURGUJA,2008,Whole Year ,Turmeric,423.0,383.0,0.6614853195164075,1
+Chhattisgarh,SURGUJA,2009,Kharif     ,Arhar/Tur,15803.0,7921.0,13.680483592400691,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Groundnut,7913.0,9525.0,16.45077720207254,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Horse-gram,8335.0,2009.0,3.469775474956822,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Jowar,1330.0,1450.0,2.5043177892918824,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Jute,39.0,2512.0,4.338514680483592,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Maize,35793.0,40865.0,70.57858376511226,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Mesta,590.0,910.0,1.5716753022452505,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Moong(Green Gram),111.0,18.0,0.031088082901554404,1
+Chhattisgarh,SURGUJA,2009,Kharif     ,Niger seed,27936.0,4039.0,6.975820379965458,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Other Kharif pulses,1094.0,224.0,0.38687392055267705,1
+Chhattisgarh,SURGUJA,2009,Kharif     ,Ragi,495.0,125.0,0.2158894645941278,1
+Chhattisgarh,SURGUJA,2009,Kharif     ,Rice,307674.0,221619.0,382.7616580310881,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Sesamum,4414.0,23435334.0,40475.533678756474,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Small millets,29049.0,6284.0,10.853195164075993,2
+Chhattisgarh,SURGUJA,2009,Kharif     ,Soyabean,91.0,47.0,0.08117443868739206,1
+Chhattisgarh,SURGUJA,2009,Kharif     ,Sunflower,36.0,9.0,0.015544041450777202,1
+Chhattisgarh,SURGUJA,2009,Kharif     ,Urad,14793.0,3850.0,6.649395509499136,2
+Chhattisgarh,SURGUJA,2009,Rabi       ,Barley,2547.0,1985.0,3.4283246977547495,2
+Chhattisgarh,SURGUJA,2009,Rabi       ,Gram,3068.0,1971.0,3.4041450777202074,2
+Chhattisgarh,SURGUJA,2009,Rabi       ,Khesari,452.0,204.0,0.35233160621761656,1
+Chhattisgarh,SURGUJA,2009,Rabi       ,Linseed,9631.0,2512.0,4.338514680483592,2
+Chhattisgarh,SURGUJA,2009,Rabi       ,Masoor,2253.0,611.0,1.0552677029360966,2
+Chhattisgarh,SURGUJA,2009,Rabi       ,Moong(Green Gram),16.0,3.0,0.0051813471502590676,1
+Chhattisgarh,SURGUJA,2009,Rabi       ,Other  Rabi pulses,12.0,2512.0,4.338514680483592,2
+Chhattisgarh,SURGUJA,2009,Rabi       ,Peas & beans (Pulses),3081.0,1225.0,2.1157167530224523,2
+Chhattisgarh,SURGUJA,2009,Rabi       ,Rapeseed &Mustard,19820.0,7367.0,12.723661485319516,2
+Chhattisgarh,SURGUJA,2009,Rabi       ,Wheat,20445.0,22975.0,39.68048359240069,2
+Chhattisgarh,SURGUJA,2009,Whole Year ,Banana,15.0,633.0,1.0932642487046633,2
+Bihar,PURBI CHAMPARAN,2006,Rabi       ,Khesari,1021.0,806.0,1.392055267702936,2
+Bihar,PURBI CHAMPARAN,2006,Rabi       ,Linseed,848.0,720.0,1.2435233160621761,2
+Bihar,PURBI CHAMPARAN,2006,Rabi       ,Maize,6235.0,3520.0,6.079447322970639,2
+Bihar,PURBI CHAMPARAN,2006,Rabi       ,Masoor,7628.0,4317.0,7.455958549222798,2
+Bihar,PURBI CHAMPARAN,2006,Rabi       ,Peas & beans (Pulses),110.0,103.0,0.17789291882556132,1
+Bihar,PURBI CHAMPARAN,2006,Rabi       ,Rapeseed &Mustard,1395.0,1448.0,2.5008635578583767,2
+Bihar,PURBI CHAMPARAN,2006,Rabi       ,Sunflower,32.0,42.0,0.07253886010362694,1
+Bihar,PURBI CHAMPARAN,2006,Rabi       ,Wheat,98681.0,199138.0,343.9343696027634,2
+Bihar,PURBI CHAMPARAN,2006,Summer     ,Maize,4806.0,10163.0,17.552677029360968,2
+Bihar,PURBI CHAMPARAN,2006,Summer     ,Moong(Green Gram),1217.0,551.0,0.9516407599309153,1
+Bihar,PURBI CHAMPARAN,2006,Summer     ,Rice,113.0,175.0,0.3022452504317789,1
+Bihar,PURBI CHAMPARAN,2006,Winter     ,Rice,137344.0,96228.0,166.19689119170985,2
+Bihar,PURBI CHAMPARAN,2007,Autumn     ,Maize,7024.0,2642.0,4.563039723661485,2
+Bihar,PURBI CHAMPARAN,2007,Autumn     ,Rice,74512.0,29957.0,51.73920552677029,2
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Arhar/Tur,1412.0,1843.0,3.1830742659758204,2
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Castor seed,7.0,7.0,0.012089810017271158,1
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Dry ginger,16.0,26.0,0.044905008635578586,1
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Jute,14.0,132.0,0.22797927461139897,1
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Mesta,9.0,58.0,0.1001727115716753,1
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Moong(Green Gram),519.0,278.0,0.48013816925734026,1
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Other Kharif pulses,1.0,1.0,0.0017271157167530224,1
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Ragi,31.0,19.0,0.03281519861830743,1
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Sannhamp,1.0,5.55,0.009585492227979274,1
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Sesamum,73.0,59.0,0.10189982728842832,1
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Small millets,1.0,1.0,0.0017271157167530224,1
+Bihar,PURBI CHAMPARAN,2007,Kharif     ,Urad,504.0,383.0,0.6614853195164075,1
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Barley,587.0,569.0,0.9827288428324698,1
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Gram,130.0,129.0,0.22279792746113988,1
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Khesari,537.0,451.0,0.7789291882556131,1
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Linseed,989.0,831.0,1.4352331606217616,2
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Maize,6807.0,40052.0,69.17443868739205,2
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Masoor,8296.0,6496.0,11.219343696027634,2
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Other  Rabi pulses,171.0,127.0,0.21934369602763384,1
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Peas & beans (Pulses),97.0,96.0,0.16580310880829016,1
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Rapeseed &Mustard,1635.0,443.0,0.7651122625215889,1
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Sunflower,34.0,45.0,0.07772020725388601,1
+Bihar,PURBI CHAMPARAN,2007,Rabi       ,Wheat,105060.0,293624.0,507.12262521588946,2
+Bihar,PURBI CHAMPARAN,2007,Summer     ,Maize,4846.0,10746.0,18.559585492227978,2
+Bihar,PURBI CHAMPARAN,2007,Summer     ,Moong(Green Gram),1183.0,666.0,1.150259067357513,2
+Bihar,PURBI CHAMPARAN,2007,Summer     ,Rice,115.0,4656756.0,8042.756476683938,2
+Bihar,PURBI CHAMPARAN,2007,Whole Year ,Banana,414.0,6997.0,12.084628670120898,2
+Bihar,PURBI CHAMPARAN,2007,Whole Year ,Coriander,82.0,59.0,0.10189982728842832,1
+Bihar,PURBI CHAMPARAN,2007,Whole Year ,Dry chillies,91.0,4654.0,8.037996545768566,2
+Bihar,PURBI CHAMPARAN,2007,Whole Year ,Garlic,141.0,205.0,0.3540587219343696,1
+Bihar,PURBI CHAMPARAN,2007,Whole Year ,Onion,835.0,43654344.0,75396.103626943,2
+Bihar,PURBI CHAMPARAN,2007,Whole Year ,Potato,7083.0,37045.0,63.98100172711572,2
+Bihar,PURBI CHAMPARAN,2007,Whole Year ,Sugarcane,6621.0,243817.0,421.1001727115717,2
+Bihar,PURBI CHAMPARAN,2007,Whole Year ,Sweet potato,170.0,2149.0,3.7115716753022454,2
+Bihar,PURBI CHAMPARAN,2007,Whole Year ,Tobacco,6.0,14.0,0.024179620034542316,1
+Bihar,PURBI CHAMPARAN,2007,Whole Year ,Turmeric,152.0,165.0,0.2849740932642487,1
+Bihar,PURBI CHAMPARAN,2007,Winter     ,Rice,139043.0,45432343.0,78466.91364421416,2
+Bihar,PURBI CHAMPARAN,2008,Autumn     ,Maize,7148.0,9115.0,15.7426597582038,2
+Bihar,PURBI CHAMPARAN,2008,Autumn     ,Rice,75706.0,115126.0,198.83592400690847,2
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Arhar/Tur,1329.0,46342342.0,80038.5872193437,2
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Castor seed,7.0,7.0,0.012089810017271158,1
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Dry ginger,16.0,26.0,0.044905008635578586,1
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Jute,16.0,128.0,0.22107081174438686,1
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Mesta,9.0,60.0,0.10362694300518134,1
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Moong(Green Gram),473.0,645343.0,1114.5820379965458,2
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Other Kharif pulses,1.0,1.0,0.0017271157167530224,1
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Potato,2209.0,12286.0,21.219343696027632,2
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Ragi,29.0,24.0,0.04145077720207254,1
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Sannhamp,1.0,55.55,0.0959412780656304,1
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Sesamum,76.0,60.0,0.10362694300518134,1
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Small millets,1.0,1.0,0.0017271157167530224,1
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Sweet potato,140.0,1695.0,2.9274611398963732,2
+Bihar,PURBI CHAMPARAN,2008,Kharif     ,Urad,484.0,396.0,0.6839378238341969,1
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Barley,452.0,492.0,0.8497409326424871,1
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Gram,134.0,124.0,0.2141623488773748,1
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Khesari,519.0,426.0,0.7357512953367875,1
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Linseed,979.0,822.0,1.4196891191709844,2
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Maize,7163.0,568956323.0,982653.4075993091,2
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Masoor,8237.0,7644.0,13.202072538860104,2
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Other  Rabi pulses,559.0,414.0,0.7150259067357513,1
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Peas & beans (Pulses),100.0,96.0,0.16580310880829016,1
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Potato,5075.0,44508.0,76.87046632124353,2
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Rapeseed &Mustard,1677.0,765.0,1.3212435233160622,2
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Sunflower,34.0,45.0,0.07772020725388601,1
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Sweet potato,33.0,397.0,0.6856649395509499,1
+Bihar,PURBI CHAMPARAN,2008,Rabi       ,Wheat,107855.0,157272.0,271.6269430051814,2
+Bihar,PURBI CHAMPARAN,2008,Summer     ,Maize,4862.0,15939.0,27.528497409326423,2
+Bihar,PURBI CHAMPARAN,2008,Summer     ,Moong(Green Gram),1143.0,597.0,1.0310880829015545,2
+Bihar,PURBI CHAMPARAN,2008,Summer     ,Rice,112.0,191.0,0.3298791018998273,1
+Bihar,PURBI CHAMPARAN,2008,Whole Year ,Dry chillies,93.0,169.0,0.2918825561312608,1
+Bihar,PURBI CHAMPARAN,2008,Whole Year ,Garlic,145.0,252.0,0.43523316062176165,1
+Bihar,PURBI CHAMPARAN,2008,Whole Year ,Onion,821.0,3432323.0,5928.018998272884,2
+Bihar,PURBI CHAMPARAN,2008,Whole Year ,Sugarcane,6561.0,292613.0,505.37651122625215,2
+Bihar,PURBI CHAMPARAN,2008,Whole Year ,Turmeric,149.0,184.0,0.3177892918825561,1
+Bihar,PURBI CHAMPARAN,2008,Winter     ,Rice,140554.0,184656.0,318.9222797927461,2
+Bihar,PURBI CHAMPARAN,2009,Autumn     ,Maize,6394.0,5929.0,10.24006908462867,2
+Bihar,PURBI CHAMPARAN,2009,Autumn     ,Rice,74950.0,61782.0,106.70466321243524,2
+Bihar,PURBI CHAMPARAN,2009,Kharif     ,Arhar/Tur,1336.0,3134.0,5.412780656303973,2
+Bihar,PURBI CHAMPARAN,2009,Kharif     ,Jute,14.0,128.0,0.22107081174438686,1
+Assam,SIVASAGAR,2010,Kharif     ,Sesamum,43.0,14.0,0.024179620034542316,1
+Assam,SIVASAGAR,2010,Kharif     ,Small millets,2.0,1.0,0.0017271157167530224,1
+Assam,SIVASAGAR,2010,Rabi       ,Arecanut,3108.0,2266.0,3.913644214162349,2
+Assam,SIVASAGAR,2010,Rabi       ,Banana,1363.0,18798.0,32.46632124352332,2
+Assam,SIVASAGAR,2010,Rabi       ,Gram,3.0,2.0,0.0034542314335060447,1
+Assam,SIVASAGAR,2010,Rabi       ,Masoor,22.0,9.0,0.015544041450777202,1
+Assam,SIVASAGAR,2010,Rabi       ,Moong(Green Gram),39.0,12.0,0.02072538860103627,1
+Assam,SIVASAGAR,2010,Rabi       ,Peas & beans (Pulses),212.0,134.0,0.231433506044905,1
+Assam,SIVASAGAR,2010,Rabi       ,Rapeseed &Mustard,1216.0,464.0,0.8013816925734024,1
+Assam,SIVASAGAR,2010,Rabi       ,Urad,280.0,156.0,0.2694300518134715,1
+Assam,SIVASAGAR,2010,Rabi       ,Wheat,65.0,81.0,0.13989637305699482,1
+Assam,SIVASAGAR,2010,Summer     ,Rice,53.0,137.0,0.23661485319516407,1
+Assam,SIVASAGAR,2010,Whole Year ,Banana,1363.0,18798.0,32.46632124352332,2
+Assam,SIVASAGAR,2010,Whole Year ,Black pepper,55.0,99.0,0.17098445595854922,1
+Assam,SIVASAGAR,2010,Whole Year ,Coconut ,481.0,5036000.0,8697.754749568221,2
+Assam,SIVASAGAR,2010,Whole Year ,Dry chillies,142.0,107.0,0.1848013816925734,1
+Assam,SIVASAGAR,2010,Whole Year ,Dry ginger,182.0,1030.0,1.778929188255613,2
+Assam,SIVASAGAR,2010,Whole Year ,Onion,60.0,140.0,0.24179620034542315,1
+Assam,SIVASAGAR,2010,Whole Year ,Potato,1028.0,7536.0,13.015544041450777,2
+Assam,SIVASAGAR,2010,Whole Year ,Sugarcane,92.0,3331.0,5.753022452504318,2
+Assam,SIVASAGAR,2010,Whole Year ,Sweet potato,99.0,362.0,0.6252158894645942,1
+Assam,SIVASAGAR,2010,Whole Year ,Tapioca,9.0,37.0,0.06390328151986183,1
+Assam,SIVASAGAR,2010,Whole Year ,Tobacco,1.0,1.0,0.0017271157167530224,1
+Assam,SIVASAGAR,2010,Whole Year ,Turmeric,242.0,184.0,0.3177892918825561,1
+Assam,SIVASAGAR,2010,Winter     ,Rice,92927.0,2435364342.0,4206156.031088083,2
+Assam,SIVASAGAR,2011,Autumn     ,Paddy,62.0,52.0,0.08981001727115717,1
+Assam,SIVASAGAR,2011,Autumn     ,Rice,62.0,52.0,0.08981001727115717,1
+Assam,SIVASAGAR,2011,Kharif     ,Arhar/Tur,38.0,21.0,0.03626943005181347,1
+Assam,SIVASAGAR,2011,Kharif     ,Castor seed,5.0,3.0,0.0051813471502590676,1
+Assam,SIVASAGAR,2011,Kharif     ,Cotton(lint),4.0,3.0,0.0051813471502590676,1
+Assam,SIVASAGAR,2011,Kharif     ,Jute,43.0,398.0,0.687392055267703,1
+Assam,SIVASAGAR,2011,Kharif     ,Maize,44.0,35.0,0.06044905008635579,1
+Assam,SIVASAGAR,2011,Kharif     ,Mesta,2.0,13.0,0.022452504317789293,1
+Assam,SIVASAGAR,2011,Kharif     ,Niger seed,1.0,1.0,0.0017271157167530224,1
+Assam,SIVASAGAR,2011,Kharif     ,Orange,275.0,2629.0,4.5405872193436965,2
+Assam,SIVASAGAR,2011,Kharif     ,Papaya,160.0,3837.0,6.626943005181347,2
+Assam,SIVASAGAR,2011,Kharif     ,Sesamum,39.0,17.0,0.02936096718480138,1
+Assam,SIVASAGAR,2011,Kharif     ,Small millets,6.0,3.0,0.0051813471502590676,1
+Assam,SIVASAGAR,2011,Kharif     ,Tapioca,13.0,126.0,0.21761658031088082,1
+Assam,SIVASAGAR,2011,Rabi       ,Arecanut,2271.0,353423232.0,610402.8186528498,2
+Assam,SIVASAGAR,2011,Rabi       ,Black pepper,69.0,125.0,0.2158894645941278,1
+Assam,SIVASAGAR,2011,Rabi       ,Dry chillies,159.0,91.0,0.15716753022452504,1
+Assam,SIVASAGAR,2011,Rabi       ,Ginger,147.0,981.0,1.694300518134715,2
+Assam,SIVASAGAR,2011,Rabi       ,Gram,3.0,2.0,0.0034542314335060447,1
+Assam,SIVASAGAR,2011,Rabi       ,Masoor,7.0,4.0,0.0069084628670120895,1
